@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Universal Dragon core",
+  "description": "A cosmic hacker AI interface running Dragon Core OS, featuring a mysterious Tamil-speaking persona and hardware bridge controls.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
